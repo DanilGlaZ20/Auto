@@ -1,0 +1,36 @@
+C:\Users\hebed\RiderProjects\Auto(1)\Auto.Messages\bin\Debug\net6.0\Auto.Messages.deps.json
+C:\Users\hebed\RiderProjects\Auto(1)\Auto.Messages\bin\Debug\net6.0\Auto.Messages.dll
+C:\Users\hebed\RiderProjects\Auto(1)\Auto.Messages\bin\Debug\net6.0\Auto.Messages.pdb
+C:\Users\hebed\RiderProjects\Auto(1)\Auto.Messages\obj\Debug\net6.0\Auto.Messages.csproj.AssemblyReference.cache
+C:\Users\hebed\RiderProjects\Auto(1)\Auto.Messages\obj\Debug\net6.0\Auto.Messages.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hebed\RiderProjects\Auto(1)\Auto.Messages\obj\Debug\net6.0\Auto.Messages.AssemblyInfoInputs.cache
+C:\Users\hebed\RiderProjects\Auto(1)\Auto.Messages\obj\Debug\net6.0\Auto.Messages.AssemblyInfo.cs
+C:\Users\hebed\RiderProjects\Auto(1)\Auto.Messages\obj\Debug\net6.0\Auto.Messages.csproj.CoreCompileInputs.cache
+C:\Users\hebed\RiderProjects\Auto(1)\Auto.Messages\obj\Debug\net6.0\Auto.Messages.dll
+C:\Users\hebed\RiderProjects\Auto(1)\Auto.Messages\obj\Debug\net6.0\refint\Auto.Messages.dll
+C:\Users\hebed\RiderProjects\Auto(1)\Auto.Messages\obj\Debug\net6.0\Auto.Messages.pdb
+C:\Users\hebed\RiderProjects\Auto(1)\Auto.Messages\obj\Debug\net6.0\ref\Auto.Messages.dll
+C:\Users\User\Desktop\Auto(1)\Auto.Messages\bin\Debug\net6.0\Auto.Messages.deps.json
+C:\Users\User\Desktop\Auto(1)\Auto.Messages\bin\Debug\net6.0\Auto.Messages.dll
+C:\Users\User\Desktop\Auto(1)\Auto.Messages\bin\Debug\net6.0\Auto.Messages.pdb
+C:\Users\User\Desktop\Auto(1)\Auto.Messages\obj\Debug\net6.0\Auto.Messages.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Auto(1)\Auto.Messages\obj\Debug\net6.0\Auto.Messages.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Auto(1)\Auto.Messages\obj\Debug\net6.0\Auto.Messages.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Auto(1)\Auto.Messages\obj\Debug\net6.0\Auto.Messages.AssemblyInfo.cs
+C:\Users\User\Desktop\Auto(1)\Auto.Messages\obj\Debug\net6.0\Auto.Messages.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Auto(1)\Auto.Messages\obj\Debug\net6.0\Auto.Messages.dll
+C:\Users\User\Desktop\Auto(1)\Auto.Messages\obj\Debug\net6.0\refint\Auto.Messages.dll
+C:\Users\User\Desktop\Auto(1)\Auto.Messages\obj\Debug\net6.0\Auto.Messages.pdb
+C:\Users\User\Desktop\Auto(1)\Auto.Messages\obj\Debug\net6.0\ref\Auto.Messages.dll
+C:\Users\79777\Desktop\Новая папка\Auto(1)\Auto.Messages\bin\Debug\net6.0\Auto.Messages.deps.json
+C:\Users\79777\Desktop\Новая папка\Auto(1)\Auto.Messages\bin\Debug\net6.0\Auto.Messages.dll
+C:\Users\79777\Desktop\Новая папка\Auto(1)\Auto.Messages\bin\Debug\net6.0\Auto.Messages.pdb
+C:\Users\79777\Desktop\Новая папка\Auto(1)\Auto.Messages\obj\Debug\net6.0\Auto.Messages.csproj.AssemblyReference.cache
+C:\Users\79777\Desktop\Новая папка\Auto(1)\Auto.Messages\obj\Debug\net6.0\Auto.Messages.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\79777\Desktop\Новая папка\Auto(1)\Auto.Messages\obj\Debug\net6.0\Auto.Messages.AssemblyInfoInputs.cache
+C:\Users\79777\Desktop\Новая папка\Auto(1)\Auto.Messages\obj\Debug\net6.0\Auto.Messages.AssemblyInfo.cs
+C:\Users\79777\Desktop\Новая папка\Auto(1)\Auto.Messages\obj\Debug\net6.0\Auto.Messages.csproj.CoreCompileInputs.cache
+C:\Users\79777\Desktop\Новая папка\Auto(1)\Auto.Messages\obj\Debug\net6.0\Auto.Messages.dll
+C:\Users\79777\Desktop\Новая папка\Auto(1)\Auto.Messages\obj\Debug\net6.0\refint\Auto.Messages.dll
+C:\Users\79777\Desktop\Новая папка\Auto(1)\Auto.Messages\obj\Debug\net6.0\Auto.Messages.pdb
+C:\Users\79777\Desktop\Новая папка\Auto(1)\Auto.Messages\obj\Debug\net6.0\ref\Auto.Messages.dll

@@ -1,0 +1,5 @@
+C:\Users\hebed\RiderProjects\Auto(1)\Auto.OwnerClient\obj\Debug\net6.0\Auto.OwnerClient.csproj.AssemblyReference.cache
+C:\Users\hebed\RiderProjects\Auto(1)\Auto.OwnerClient\obj\Debug\net6.0\Auto.OwnerClient.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hebed\RiderProjects\Auto(1)\Auto.OwnerClient\obj\Debug\net6.0\Auto.OwnerClient.AssemblyInfoInputs.cache
+C:\Users\hebed\RiderProjects\Auto(1)\Auto.OwnerClient\obj\Debug\net6.0\Auto.OwnerClient.AssemblyInfo.cs
+C:\Users\hebed\RiderProjects\Auto(1)\Auto.OwnerClient\obj\Debug\net6.0\Auto.OwnerClient.csproj.CoreCompileInputs.cache

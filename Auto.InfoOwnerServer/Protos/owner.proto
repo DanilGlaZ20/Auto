@@ -1,0 +1,24 @@
+syntax = "proto3";
+
+option csharp_namespace = "Auto.InfoOwnerServer";
+
+package owner;
+
+// The greeting service definition.
+service OwnerInfo {
+  // Sends a greeting
+  rpc GetOwnerInfo (OwnerInfoRequest) returns (OwnerInfoReply);
+}
+
+// The request message containing the user's name.
+message OwnerInfoRequest {
+  string registerNumber = 1;
+  string phoneNumber = 2;
+}
+
+// The response message containing the greetings.
+message OwnerInfoReply {
+  string fullname = 1;
+  string driverLicence = 2;
+  string regCodeVehicle = 3;
+}
